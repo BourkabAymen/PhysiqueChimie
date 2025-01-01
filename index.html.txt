@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Physics Website</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to the Physics Website!</h1>
+        <nav>
+            <ul>
+                <li><a href="about.html">About</a></li>  <!-- Lien vers la page About -->
+                <li><a href="topics.html">Topics</a></li>  <!-- Lien vers la page Topics -->
+                <li><a href="resources.html">Resources</a></li>  <!-- Lien vers la page Resources -->
+                <li><a href="contact.html">Contact</a></li>  <!-- Lien vers la page Contact -->
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Hello, I am a Physics teacher passionate about sharing knowledge!</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Physics Teacher</p>
+    </footer>
+</body>
+</html>
